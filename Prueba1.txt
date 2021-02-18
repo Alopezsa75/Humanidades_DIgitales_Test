@@ -1,1 +1,3 @@
-Este texto es parte de la comprensión del uso de git
+Este texto es parte de la comprensión del uso de git.
+Primer commit
+Este es para guardar en el segundo commit.
