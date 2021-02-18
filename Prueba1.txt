@@ -1,0 +1,1 @@
+Este texto es parte de la comprensión del uso de git
